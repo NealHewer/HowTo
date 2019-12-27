@@ -1,2 +1,2 @@
-# Public
-Public area
+# HowTo
+How to knowledgebase

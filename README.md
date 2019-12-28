@@ -1,2 +1,2 @@
-# HowTo
-How to knowledgebase
+# HowTo WIki
+https://github.com/NealHewer/HowTo/wiki
